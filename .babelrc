@@ -1,0 +1,8 @@
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react", "@babel/preset-typescript"]
+}
+
+ 
+
+//! ts 먼저 react env 순으로 읽을 예정
+
